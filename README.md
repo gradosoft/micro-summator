@@ -1,6 +1,6 @@
 ## Micro Summator
 
-Microservice accepts many parameters with integers and returns the status and sum of these parameters in JSON format.</br>
+Microservice accepts many parameters with integers and returns the status and sum of these parameters in JSON format.
 The number of parameters can be any. Parameter names are not important.
 
 localhost:8020/?arg1=8&arg2=5...&argN=N
