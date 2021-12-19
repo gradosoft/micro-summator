@@ -38,4 +38,4 @@ The service uses modern technologies, has a microservice architecture and return
 
 Summator microservice can take a decent place in your production if you use microservice architecture.
 
-Do not use your servers to add numbers, use the dedicated service for this operation! :-)
+Do not use your servers to add numbers, use the dedicated service for this operation! :-) :sarcasm:
